@@ -1,0 +1,50 @@
+    <style>
+        body
+        {
+            background-color:#000;
+        }
+
+        .container
+        {
+
+            display: flex;
+            flex-direction: row;
+            justify-content: flex-start;
+
+            margin-left: 10%;
+            margin-top: 10px;
+            padding-top: 10px;
+
+        }
+
+        #con1
+        {
+            width: auto;
+            height: auto;
+            font-style: italic;
+            align-self: center;
+            margin-right: 10%;
+
+        }
+        #con2
+        {
+            width: auto;
+            height: auto;
+            font-style: italic;
+
+
+        }
+        table
+        {
+            border-color: #00f;
+            color: #ffa833;
+            font-size: 20px;
+        }
+
+        input
+        {
+            background-color: #ff610c;
+            width: 100%;
+            font-size: 20px;
+        }
+    </style>
