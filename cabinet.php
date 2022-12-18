@@ -69,6 +69,7 @@
                     </tr>
                 </table>
                 <p><h1 align="center"><font color="#ffa833"><a href="logout.php">Выйти</a> из системы</font></h1></p>
+                <p><h1 align="center"><font color="#ffa833">гаряча лінія +38-097-173-3136 або maxfast333@gmail.com</font></h1></p>
             </div>
 </body>
 </html>
